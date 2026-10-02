@@ -1,0 +1,212 @@
+{
+ "family": "sauce-dispenser",
+ "family_short": "sauce-dispenser",
+ "compare_subtitle": "Sauce-dispenser expansion of 2 Oct 2026 (34 squeeze-bottle, shaker and pump variants, AT/DE/CZ/SK/RO; see Change log).",
+ "benchmark_reason": "Every squeeze bottle, shaker and pump dispenser of the Shopify Sauce Dispensers collection that was not yet in the file (colour variants collapsed). 8 benchmarks already in the file (PP single-tip bottles 250/500/750/1,000 ml, 500 ml triple tip, 750 ml wide covered tip, 2 L pump dispenser with and without stand) were not researched again.",
+ "variants": [
+  {
+   "product": "Squeeze bottle 250 ml, PE, rotatable tip",
+   "code": "GPSM-250",
+   "spec": "Squeeze bottle 250 ml, PE, standard neck, rotatable (swivel) nozzle, clear",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Volume within ±10% and the stated tip type = EXACT (colour free); volume 10-25% off, plain tip for a rotatable tip, or material not stated = CLOSE; other family or volume >25% off = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 500 ml, PE, rotatable tip",
+   "code": "GPSM-500",
+   "spec": "Squeeze bottle 500 ml, PE, standard neck, rotatable (swivel) nozzle, clear",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Volume within ±10% and the stated tip type = EXACT (colour free); volume 10-25% off, plain tip for a rotatable tip, or material not stated = CLOSE; other family or volume >25% off = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 750 ml, PE, rotatable tip",
+   "code": "GPSM-750",
+   "spec": "Squeeze bottle 750 ml, PE, standard neck, rotatable (swivel) nozzle, clear",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Volume within ±10% and the stated tip type = EXACT (colour free); volume 10-25% off, plain tip for a rotatable tip, or material not stated = CLOSE; other family or volume >25% off = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 1,000 ml, PE, rotatable tip",
+   "code": "GPSM-1000",
+   "spec": "Squeeze bottle 1000 ml, PE, standard neck, rotatable (swivel) nozzle, clear",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Volume within ±10% and the stated tip type = EXACT (colour free); volume 10-25% off, plain tip for a rotatable tip, or material not stated = CLOSE; other family or volume >25% off = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 250 ml, PE, covered tip",
+   "code": "GPSC-250",
+   "spec": "Squeeze bottle 250 ml, PE, standard neck, closure cap over the tip, clear",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Volume within ±10% and the stated tip type = EXACT (colour free); volume 10-25% off, plain tip for a rotatable tip, or material not stated = CLOSE; other family or volume >25% off = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 500 ml, PE, covered tip",
+   "code": "GPSC-500",
+   "spec": "Squeeze bottle 500 ml, PE, standard neck, closure cap over the tip, clear",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Volume within ±10% and the stated tip type = EXACT (colour free); volume 10-25% off, plain tip for a rotatable tip, or material not stated = CLOSE; other family or volume >25% off = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 750 ml, PE, covered tip",
+   "code": "GPSC-750",
+   "spec": "Squeeze bottle 750 ml, PE, standard neck, closure cap over the tip, clear",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Volume within ±10% and the stated tip type = EXACT (colour free); volume 10-25% off, plain tip for a rotatable tip, or material not stated = CLOSE; other family or volume >25% off = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 1,000 ml, PE, covered tip",
+   "code": "GPSC-1000",
+   "spec": "Squeeze bottle 1000 ml, PE, standard neck, closure cap over the tip, clear",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Volume within ±10% and the stated tip type = EXACT (colour free); volume 10-25% off, plain tip for a rotatable tip, or material not stated = CLOSE; other family or volume >25% off = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 750 ml, triple tip",
+   "code": "GBT-750",
+   "spec": "Wide-mouth squeeze bottle 750 ml, PP/PE, three nozzles",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Volume within ±10% and the stated tip type = EXACT (colour free); volume 10-25% off, plain tip for a rotatable tip, or material not stated = CLOSE; other family or volume >25% off = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 1,000 ml, triple tip",
+   "code": "GBT-1000",
+   "spec": "Wide-mouth squeeze bottle 1000 ml, PP/PE, three nozzles",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Volume within ±10% and the stated tip type = EXACT (colour free); volume 10-25% off, plain tip for a rotatable tip, or material not stated = CLOSE; other family or volume >25% off = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 500 ml, PP/PE, wide covered tip",
+   "code": "GBC-500",
+   "spec": "Wide-mouth squeeze bottle 500 ml, PP/PE, covered nozzle",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Volume within ±10% and the stated tip type = EXACT (colour free); volume 10-25% off, plain tip for a rotatable tip, or material not stated = CLOSE; other family or volume >25% off = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 1,000 ml, PP/PE, wide covered tip",
+   "code": "GBC-1000",
+   "spec": "Wide-mouth squeeze bottle 1000 ml, PP/PE, covered nozzle",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Volume within ±10% and the stated tip type = EXACT (colour free); volume 10-25% off, plain tip for a rotatable tip, or material not stated = CLOSE; other family or volume >25% off = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 500 ml, PP/PE, silicone tip",
+   "code": "GBS-500",
+   "spec": "Wide-mouth squeeze bottle 500 ml, PP/PE, silicone nozzle",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Volume within ±10% and the stated tip type = EXACT (colour free); volume 10-25% off, plain tip for a rotatable tip, or material not stated = CLOSE; other family or volume >25% off = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 750 ml, PP/PE, silicone tip",
+   "code": "GBS-750",
+   "spec": "Wide-mouth squeeze bottle 750 ml, PP/PE, silicone nozzle",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Volume within ±10% and the stated tip type = EXACT (colour free); volume 10-25% off, plain tip for a rotatable tip, or material not stated = CLOSE; other family or volume >25% off = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 1,000 ml, PP/PE, silicone tip",
+   "code": "GBS-1000",
+   "spec": "Wide-mouth squeeze bottle 1000 ml, PP/PE, silicone nozzle",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Volume within ±10% and the stated tip type = EXACT (colour free); volume 10-25% off, plain tip for a rotatable tip, or material not stated = CLOSE; other family or volume >25% off = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 500 ml, triple tip, bottom-fill lid",
+   "code": "GBT2-500",
+   "spec": "Squeeze bottle 500 ml, PP/PE, triple tip, bottom opening for refilling (dual-opening lid)",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Bottom-fill (dual-opening) bottle with the stated tip = EXACT; FIFO-type bottle of similar volume with a different tip = CLOSE; standard bottle without bottom opening = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 750 ml, triple tip, bottom-fill lid",
+   "code": "GBT2-750",
+   "spec": "Squeeze bottle 750 ml, PP/PE, triple tip, bottom opening for refilling (dual-opening lid)",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Bottom-fill (dual-opening) bottle with the stated tip = EXACT; FIFO-type bottle of similar volume with a different tip = CLOSE; standard bottle without bottom opening = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 1,000 ml, triple tip, bottom-fill lid",
+   "code": "GBT2-1000",
+   "spec": "Squeeze bottle 1000 ml, PP/PE, triple tip, bottom opening for refilling (dual-opening lid)",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Bottom-fill (dual-opening) bottle with the stated tip = EXACT; FIFO-type bottle of similar volume with a different tip = CLOSE; standard bottle without bottom opening = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 500 ml, covered tip, bottom-fill lid",
+   "code": "GBC2-500",
+   "spec": "Squeeze bottle 500 ml, PP/PE, covered tip, bottom opening for refilling (dual-opening lid)",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Bottom-fill (dual-opening) bottle with the stated tip = EXACT; FIFO-type bottle of similar volume with a different tip = CLOSE; standard bottle without bottom opening = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 750 ml, covered tip, bottom-fill lid",
+   "code": "GBC2-750",
+   "spec": "Squeeze bottle 750 ml, PP/PE, covered tip, bottom opening for refilling (dual-opening lid)",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Bottom-fill (dual-opening) bottle with the stated tip = EXACT; FIFO-type bottle of similar volume with a different tip = CLOSE; standard bottle without bottom opening = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 1,000 ml, covered tip, bottom-fill lid",
+   "code": "GBC2-1000",
+   "spec": "Squeeze bottle 1000 ml, PP/PE, covered tip, bottom opening for refilling (dual-opening lid)",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Bottom-fill (dual-opening) bottle with the stated tip = EXACT; FIFO-type bottle of similar volume with a different tip = CLOSE; standard bottle without bottom opening = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 500 ml, silicone tip, bottom-fill lid",
+   "code": "GBS2-500",
+   "spec": "Squeeze bottle 500 ml, PP/PE, silicone tip, bottom opening for refilling (dual-opening lid)",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Bottom-fill (dual-opening) bottle with the stated tip = EXACT; FIFO-type bottle of similar volume with a different tip = CLOSE; standard bottle without bottom opening = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 750 ml, silicone tip, bottom-fill lid",
+   "code": "GBS2-750",
+   "spec": "Squeeze bottle 750 ml, PP/PE, silicone tip, bottom opening for refilling (dual-opening lid)",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Bottom-fill (dual-opening) bottle with the stated tip = EXACT; FIFO-type bottle of similar volume with a different tip = CLOSE; standard bottle without bottom opening = APPROX."
+  },
+  {
+   "product": "Squeeze bottle 1,000 ml, silicone tip, bottom-fill lid",
+   "code": "GBS2-1000",
+   "spec": "Squeeze bottle 1000 ml, PP/PE, silicone tip, bottom opening for refilling (dual-opening lid)",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Bottom-fill (dual-opening) bottle with the stated tip = EXACT; FIFO-type bottle of similar volume with a different tip = CLOSE; standard bottle without bottom opening = APPROX."
+  },
+  {
+   "product": "Oil squeeze bottle 500 ml, PP",
+   "code": "GY-500",
+   "spec": "Plastic squeeze/dispensing bottle for oil, 500 ml, PP",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Plastic oil dispensing bottle of similar volume = EXACT; generic squeeze bottle sold for oil = CLOSE; glass or stainless = out of scope."
+  },
+  {
+   "product": "Oil squeeze bottle 1,000 ml, PP",
+   "code": "GY-1000",
+   "spec": "Plastic squeeze/dispensing bottle for oil, 1000 ml, PP",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Plastic oil dispensing bottle of similar volume = EXACT; generic squeeze bottle sold for oil = CLOSE; glass or stainless = out of scope."
+  },
+  {
+   "product": "Seasoning shaker 500 ml, PP/PE",
+   "code": "GS-500",
+   "spec": "Wide-mouth plastic seasoning shaker, 500 ml",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Plastic shaker/dredger of similar volume = EXACT; volume 10-25% off or lid type different = CLOSE; stainless = APPROX."
+  },
+  {
+   "product": "Seasoning shaker 750 ml, PP/PE",
+   "code": "GS-750",
+   "spec": "Wide-mouth plastic seasoning shaker, 750 ml",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Plastic shaker/dredger of similar volume = EXACT; volume 10-25% off or lid type different = CLOSE; stainless = APPROX."
+  },
+  {
+   "product": "Seasoning shaker 1,000 ml, PP/PE",
+   "code": "GS-1000",
+   "spec": "Wide-mouth plastic seasoning shaker, 1000 ml",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Plastic shaker/dredger of similar volume = EXACT; volume 10-25% off or lid type different = CLOSE; stainless = APPROX."
+  },
+  {
+   "product": "Salt and pepper shaker 500 ml, PP/PE",
+   "code": "GSP-500",
+   "spec": "Wide-mouth plastic salt and pepper shaker, 500 ml",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Plastic salt/pepper shaker of similar volume = EXACT; volume 10-25% off = CLOSE; stainless or glass = APPROX."
+  },
+  {
+   "product": "Salt and pepper shaker 750 ml, PP/PE",
+   "code": "GSP-750",
+   "spec": "Wide-mouth plastic salt and pepper shaker, 750 ml",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Plastic salt/pepper shaker of similar volume = EXACT; volume 10-25% off = CLOSE; stainless or glass = APPROX."
+  },
+  {
+   "product": "Salt and pepper shaker 1,000 ml, PP/PE",
+   "code": "GSP-1000",
+   "spec": "Wide-mouth plastic salt and pepper shaker, 1000 ml",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Plastic salt/pepper shaker of similar volume = EXACT; volume 10-25% off = CLOSE; stainless or glass = APPROX."
+  },
+  {
+   "product": "Sauce dispenser pump 20 ml, PP",
+   "code": "GDP-01",
+   "spec": "Spare pump for sauce dispensers, approx. 20 ml per push, PP",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Replacement pump for 2 L sauce dispensers (15-30 ml portion) = EXACT; pump with container = APPROX."
+  },
+  {
+   "product": "Double sauce dispenser 2 + 2 L, PP/ABS",
+   "code": "GDP-02",
+   "spec": "Double pump dispenser, 2 x 2 L PP containers in ABS housing, 20 ml pumps",
+   "req": "Sauce-dispenser expansion 2 Oct 2026. Plastic double dispenser 2 x 1.5-2.5 L = EXACT; stainless double dispenser = APPROX."
+  }
+ ]
+}
