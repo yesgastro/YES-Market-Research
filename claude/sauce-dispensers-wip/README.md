@@ -12,3 +12,6 @@ Nothing from this folder is in the workbook yet.
 - render.js — headless-browser page renderer used for JavaScript-priced shops (needs Playwright's Chromium).
 
 To resume: relaunch the per-market research for the remaining shops, append new rows to the CSVs, then run combine2.py → build2.py → recalc → verify.py.
+
+## Update 2 Oct 2026, 13:40 UTC
+Second run added offers_AT_2.csv (Gastroladen.at, Gastrodax; 30 rows) and offers_DE_2.csv (Gastro-Spirit, ALLPAX, GastroHero; 30 rows). All five CSVs (101 rows) are now IN the workbook "YES Market Research 2026-10-03.xlsx" (Offers rows 2110-2210). Future runs: write new CSVs for the shops still missing and run the pipeline on the current workbook (the build script detects the last rows itself).

@@ -1,0 +1,103 @@
+Product,Market,Offers,Cheapest EUR,Median EUR,Entry EUR,Basis
+"Squeeze bottle 250 ml, PE, rotatable tip",Austria,2,1.05,1.065,0.7,median
+"Squeeze bottle 250 ml, PE, rotatable tip",Germany,2,0.79,1.12,0.7,undercut cheapest
+"Squeeze bottle 250 ml, PE, rotatable tip",Czech,1,1.719647,1.719647,1.2,median
+"Squeeze bottle 500 ml, PE, rotatable tip",Austria,1,7.15,7.15,5,median
+"Squeeze bottle 500 ml, PE, rotatable tip",Germany,3,0.94,1.42,0.85,undercut cheapest
+"Squeeze bottle 500 ml, PE, rotatable tip",Czech,2,4.913277,5.036109,3.5,median
+"Squeeze bottle 750 ml, PE, rotatable tip",Austria,3,1.35,1.59,1.15,median
+"Squeeze bottle 750 ml, PE, rotatable tip",Germany,3,1.08,1.09,0.8,median
+"Squeeze bottle 750 ml, PE, rotatable tip",Czech,1,2.579471,2.579471,1.8,median
+"Squeeze bottle 1,000 ml, PE, rotatable tip",Austria,3,2.29,3.16,2.15,undercut cheapest
+"Squeeze bottle 1,000 ml, PE, rotatable tip",Germany,3,1.52,1.95,1.4,undercut cheapest
+"Squeeze bottle 1,000 ml, PE, rotatable tip",Czech,1,3.80779,3.80779,2.65,median
+"Squeeze bottle 250 ml, PE, covered tip",Austria,6,1.27,6.06,4.5,median (cheapest is an outlier)
+"Squeeze bottle 250 ml, PE, covered tip",Germany,2,0.79,1.12,0.7,undercut cheapest
+"Squeeze bottle 250 ml, PE, covered tip",Czech,1,1.678703,1.678703,1.15,median
+"Squeeze bottle 500 ml, PE, covered tip",Austria,3,1.42,1.53,1.1,median
+"Squeeze bottle 500 ml, PE, covered tip",Germany,3,0.94,1.42,0.85,undercut cheapest
+"Squeeze bottle 500 ml, PE, covered tip",Czech,0,—,—,—,—
+"Squeeze bottle 750 ml, PE, covered tip",Austria,5,1.7,3.39,2.5,median (cheapest is an outlier)
+"Squeeze bottle 750 ml, PE, covered tip",Germany,3,1.08,1.09,0.8,median
+"Squeeze bottle 750 ml, PE, covered tip",Czech,0,—,—,—,—
+"Squeeze bottle 1,000 ml, PE, covered tip",Austria,5,2.09,3.89,2.9,median (cheapest is an outlier)
+"Squeeze bottle 1,000 ml, PE, covered tip",Germany,3,1.52,1.95,1.4,undercut cheapest
+"Squeeze bottle 1,000 ml, PE, covered tip",Czech,0,—,—,—,—
+"Squeeze bottle 750 ml, triple tip",Austria,1,3.32,3.32,2.3,median
+"Squeeze bottle 750 ml, triple tip",Germany,0,—,—,—,—
+"Squeeze bottle 750 ml, triple tip",Czech,0,—,—,—,—
+"Squeeze bottle 1,000 ml, triple tip",Austria,3,1.59,4.15,3.1,median (cheapest is an outlier)
+"Squeeze bottle 1,000 ml, triple tip",Germany,1,1.49,1.49,1,median
+"Squeeze bottle 1,000 ml, triple tip",Czech,1,4.62667,4.62667,3.2,median
+"Squeeze bottle 500 ml, PP/PE, wide covered tip",Austria,2,2.49,3.16,2.2,undercut cheapest
+"Squeeze bottle 500 ml, PP/PE, wide covered tip",Germany,1,2.39,2.39,1.65,median
+"Squeeze bottle 500 ml, PP/PE, wide covered tip",Czech,1,4.053454,4.053454,2.8,median
+"Squeeze bottle 1,000 ml, PP/PE, wide covered tip",Austria,2,3.29,4.015,2.8,median
+"Squeeze bottle 1,000 ml, PP/PE, wide covered tip",Germany,1,3.09,3.09,2.15,median
+"Squeeze bottle 1,000 ml, PP/PE, wide covered tip",Czech,0,—,—,—,—
+"Squeeze bottle 500 ml, PP/PE, silicone tip",Austria,0,—,—,—,—
+"Squeeze bottle 500 ml, PP/PE, silicone tip",Germany,0,—,—,—,—
+"Squeeze bottle 500 ml, PP/PE, silicone tip",Czech,1,4.708558,4.708558,3.25,median
+"Squeeze bottle 750 ml, PP/PE, silicone tip",Austria,0,—,—,—,—
+"Squeeze bottle 750 ml, PP/PE, silicone tip",Germany,0,—,—,—,—
+"Squeeze bottle 750 ml, PP/PE, silicone tip",Czech,1,5.609325,5.609325,3.9,median
+"Squeeze bottle 1,000 ml, PP/PE, silicone tip",Austria,0,—,—,—,—
+"Squeeze bottle 1,000 ml, PP/PE, silicone tip",Germany,1,3.69,3.69,2.55,median
+"Squeeze bottle 1,000 ml, PP/PE, silicone tip",Czech,1,6.182541,6.182541,4.3,median
+"Squeeze bottle 500 ml, triple tip, bottom-fill lid",Austria,0,—,—,—,—
+"Squeeze bottle 500 ml, triple tip, bottom-fill lid",Germany,0,—,—,—,—
+"Squeeze bottle 500 ml, triple tip, bottom-fill lid",Czech,0,—,—,—,—
+"Squeeze bottle 750 ml, triple tip, bottom-fill lid",Austria,0,—,—,—,—
+"Squeeze bottle 750 ml, triple tip, bottom-fill lid",Germany,0,—,—,—,—
+"Squeeze bottle 750 ml, triple tip, bottom-fill lid",Czech,0,—,—,—,—
+"Squeeze bottle 1,000 ml, triple tip, bottom-fill lid",Austria,0,—,—,—,—
+"Squeeze bottle 1,000 ml, triple tip, bottom-fill lid",Germany,0,—,—,—,—
+"Squeeze bottle 1,000 ml, triple tip, bottom-fill lid",Czech,0,—,—,—,—
+"Squeeze bottle 500 ml, covered tip, bottom-fill lid",Austria,0,—,—,—,—
+"Squeeze bottle 500 ml, covered tip, bottom-fill lid",Germany,1,2.79,2.79,1.95,median
+"Squeeze bottle 500 ml, covered tip, bottom-fill lid",Czech,0,—,—,—,—
+"Squeeze bottle 750 ml, covered tip, bottom-fill lid",Austria,0,—,—,—,—
+"Squeeze bottle 750 ml, covered tip, bottom-fill lid",Germany,0,—,—,—,—
+"Squeeze bottle 750 ml, covered tip, bottom-fill lid",Czech,0,—,—,—,—
+"Squeeze bottle 1,000 ml, covered tip, bottom-fill lid",Austria,0,—,—,—,—
+"Squeeze bottle 1,000 ml, covered tip, bottom-fill lid",Germany,1,4.85,4.85,3.35,median
+"Squeeze bottle 1,000 ml, covered tip, bottom-fill lid",Czech,0,—,—,—,—
+"Squeeze bottle 500 ml, silicone tip, bottom-fill lid",Austria,5,2.9,4.41,2.75,undercut cheapest
+"Squeeze bottle 500 ml, silicone tip, bottom-fill lid",Germany,1,4.79,4.79,3.35,median
+"Squeeze bottle 500 ml, silicone tip, bottom-fill lid",Czech,1,9.621835,9.621835,6.7,median
+"Squeeze bottle 750 ml, silicone tip, bottom-fill lid",Austria,3,3.2,4.58,3,undercut cheapest
+"Squeeze bottle 750 ml, silicone tip, bottom-fill lid",Germany,0,—,—,—,—
+"Squeeze bottle 750 ml, silicone tip, bottom-fill lid",Czech,0,—,—,—,—
+"Squeeze bottle 1,000 ml, silicone tip, bottom-fill lid",Austria,1,3.45,3.45,2.4,median
+"Squeeze bottle 1,000 ml, silicone tip, bottom-fill lid",Germany,0,—,—,—,—
+"Squeeze bottle 1,000 ml, silicone tip, bottom-fill lid",Czech,0,—,—,—,—
+"Oil squeeze bottle 500 ml, PP",Austria,0,—,—,—,—
+"Oil squeeze bottle 500 ml, PP",Germany,0,—,—,—,—
+"Oil squeeze bottle 500 ml, PP",Czech,0,—,—,—,—
+"Oil squeeze bottle 1,000 ml, PP",Austria,0,—,—,—,—
+"Oil squeeze bottle 1,000 ml, PP",Germany,0,—,—,—,—
+"Oil squeeze bottle 1,000 ml, PP",Czech,0,—,—,—,—
+"Seasoning shaker 500 ml, PP/PE",Austria,0,—,—,—,—
+"Seasoning shaker 500 ml, PP/PE",Germany,0,—,—,—,—
+"Seasoning shaker 500 ml, PP/PE",Czech,0,—,—,—,—
+"Seasoning shaker 750 ml, PP/PE",Austria,0,—,—,—,—
+"Seasoning shaker 750 ml, PP/PE",Germany,0,—,—,—,—
+"Seasoning shaker 750 ml, PP/PE",Czech,0,—,—,—,—
+"Seasoning shaker 1,000 ml, PP/PE",Austria,0,—,—,—,—
+"Seasoning shaker 1,000 ml, PP/PE",Germany,0,—,—,—,—
+"Seasoning shaker 1,000 ml, PP/PE",Czech,0,—,—,—,—
+"Salt and pepper shaker 500 ml, PP/PE",Austria,0,—,—,—,—
+"Salt and pepper shaker 500 ml, PP/PE",Germany,0,—,—,—,—
+"Salt and pepper shaker 500 ml, PP/PE",Czech,0,—,—,—,—
+"Salt and pepper shaker 750 ml, PP/PE",Austria,0,—,—,—,—
+"Salt and pepper shaker 750 ml, PP/PE",Germany,0,—,—,—,—
+"Salt and pepper shaker 750 ml, PP/PE",Czech,0,—,—,—,—
+"Salt and pepper shaker 1,000 ml, PP/PE",Austria,0,—,—,—,—
+"Salt and pepper shaker 1,000 ml, PP/PE",Germany,0,—,—,—,—
+"Salt and pepper shaker 1,000 ml, PP/PE",Czech,0,—,—,—,—
+"Sauce dispenser pump 20 ml, PP",Austria,2,14.25,24.72,17.3,median (cheapest is an outlier)
+"Sauce dispenser pump 20 ml, PP",Germany,1,11.49,11.49,8,median
+"Sauce dispenser pump 20 ml, PP",Czech,0,—,—,—,—
+"Double sauce dispenser 2 + 2 L, PP/ABS",Austria,0,—,—,—,—
+"Double sauce dispenser 2 + 2 L, PP/ABS",Germany,0,—,—,—,—
+"Double sauce dispenser 2 + 2 L, PP/ABS",Czech,0,—,—,—,—

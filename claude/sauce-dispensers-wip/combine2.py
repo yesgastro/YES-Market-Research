@@ -6,6 +6,7 @@ files = sys.argv[1:] or sorted(glob.glob('out2/offers_*.csv'))
 rows = []
 for f in files:
     for r in csv.DictReader(open(f, encoding='utf-8')):
+        r['product'] = re.sub(r' \((GPSM|GPSC|GBT2?|GBC2?|GBS2?|GY|GS|GSP|GDP)-[0-9]+\)$', '', r['product'].strip())
         r['_f'] = f; r['curation'] = ''; r['selected'] = ''; rows.append(r)
 actions = []
 def downgrade(r, reason):
